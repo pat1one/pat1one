@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### Operating Systems
+### 🖥️ Operating Systems
 
 ![Arch Linux](https://img.shields.io/badge/Daily_Driver-Arch_Linux_(CachyOS)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Gaming-Windows_11_Pro-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
@@ -23,6 +23,46 @@
 **🐧 Daily Driver:** Arch Linux (CachyOS) - для разработки и повседневных задач  
 **🎮 Gaming:** Windows 11 Pro - для игровых сессий  
 **🍎 Experience:** macOS - использовал ранее
+
+---
+
+### ⚙️ Hardware Specs
+
+![Intel](https://img.shields.io/badge/CPU-Intel_Core_i9_9900K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/GPU-RTX_3080_12GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Corsair](https://img.shields.io/badge/RAM-Corsair_16GB_DDR4_3200MHz-000000?style=for-the-badge&logo=corsair&logoColor=white)
+![Samsung](https://img.shields.io/badge/SSD-Samsung_980_EVO_2TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
+
+| Component | Specification |
+|-----------|--------------|
+| **💻 CPU** | Intel Core i9-9900K |
+| **🎮 GPU** | NVIDIA GeForce RTX 3080 12GB (Gigabyte) |
+| **🔧 Motherboard** | B360-ATX DDR4 |
+| **🧠 RAM** | Corsair DDR4 16GB (2x8GB) 3200MHz |
+| **💾 SSD** | Samsung 980 EVO 2TB M.2 |
+| **💿 HDD** | WD Blue 1TB SATA 3 |
+| **⚡ PSU** | DeepCool 700W Gold |
+
+---
+
+### 🖱️ Peripherals
+
+![Logitech](https://img.shields.io/badge/Peripherals-Logitech-00B8FC?style=for-the-badge&logo=logitech&logoColor=white)
+![ASUS](https://img.shields.io/badge/Monitors-ASUS_TUF_Gaming-000000?style=for-the-badge&logo=asus&logoColor=white)
+![Sony](https://img.shields.io/badge/Camera-Sony_Alpha_6000-000000?style=for-the-badge&logo=sony&logoColor=white)
+
+| Device | Model |
+|--------|-------|
+| **🖥️ Monitor 1** | 27" ASUS TUF Gaming VG279QM |
+| **🖥️ Monitor 2** | 23.8" ASUS TUF Gaming VG249Q |
+| **🪑 Chair** | Cougar Armor 1 V2 |
+| **🎧 Headphones** | Logitech G733 |
+| **🎙️ Microphone** | HyperX QuadCast S Black |
+| **⌨️ Keyboard** | Logitech G715 TKL |
+| **🖱️ Mouse** | Logitech G Pro X Superlight |
+| **🎯 Mousepad** | Artisan Hayate Otsu Soft |
+| **📷 Camera** | Sony Alpha 6000 |
+| **🔭 Lens** | Sigma AF 16mm f/1.4 |
 
 </div>
 
