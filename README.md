@@ -4,43 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=IT+Specialist+%F0%9F%92%BB;Data+Science+%26+ML+Engineer+%F0%9F%93%8A;Channel+Moderator+%F0%9F%9B%A1%EF%B8%8F;ex+Dota+%E2%86%92+CS2+Player+%F0%9F%8E%AE;Business:+%40prdrow+%F0%9F%93%AC;Email:+drow.battle.2025%40gmail.com+%F0%9F%93%A7)](https://git.io/typing-svg)
 
-</div>
-
----
-
-## 📊 Activity & Status
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🎵 Now Playing</h3>
-      <a href="https://open.spotify.com/user/твой_spotify_id">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=твой_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=2e9ef7&bar_color_cover=true" alt="Spotify" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>💬 Discord</h3>
-      <a href="https://discord.com/users/твой_discord_id">
-        <img src="https://lanyard.cnrad.dev/api/твой_discord_id?theme=dark&bg=0d1117&borderRadius=10px" alt="Discord" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>🎮 Streaming & Social</h3>
-      <a href="https://twitch.tv/pattmsc">
-        <img src="https://img.shields.io/twitch/status/pattmsc?style=for-the-badge&logo=twitch&logoColor=white&label=TWITCH&color=9146FF" alt="Twitch" />
-      </a>
-      <a href="https://youtube.com/@твой_канал">
-        <img src="https://img.shields.io/youtube/channel/subscribers/твой_channel_id?style=for-the-badge&logo=youtube&logoColor=white&label=YOUTUBE&color=FF0000" alt="YouTube" />
-      </a>
-      <br><br>
-      <img src="https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
-    </td>
-  </tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -90,14 +54,6 @@
 
 **Stack:** Python • FastAPI • Next.js • TypeScript • PostgreSQL • OpenAI • LangChain • Docker
 
-**Features:**
-- 🤖 AI-анализ статистики игроков
-- 📊 Интеграция с Faceit API
-- 📈 Анализ демо-файлов
-- 👥 Умный поиск тиммейтов
-- 💡 Персональные рекомендации
-- 📱 PWA поддержка
-
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/faceit-ai-bot)
 ![Stars](https://img.shields.io/github/stars/pat1one/faceit-ai-bot?style=for-the-badge&logo=github&logoColor=white&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pat1one/faceit-ai-bot?style=for-the-badge&logo=github&logoColor=white&color=blue)
@@ -111,7 +67,6 @@
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/multimodal-gaming-ai-chat)
 ![Stars](https://img.shields.io/github/stars/pat1one/multimodal-gaming-ai-chat?style=for-the-badge&logo=github&logoColor=white&color=yellow)
-![Forks](https://img.shields.io/github/forks/pat1one/multimodal-gaming-ai-chat?style=for-the-badge&logo=github&logoColor=white&color=blue)
 
 ---
 
@@ -122,7 +77,6 @@
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/stream-ai-bot)
 ![Stars](https://img.shields.io/github/stars/pat1one/stream-ai-bot?style=for-the-badge&logo=github&logoColor=white&color=yellow)
-![Forks](https://img.shields.io/github/forks/pat1one/stream-ai-bot?style=for-the-badge&logo=github&logoColor=white&color=blue)
 
 ---
 
@@ -133,7 +87,6 @@
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/telegram-forward-bot)
 ![Stars](https://img.shields.io/github/stars/pat1one/telegram-forward-bot?style=for-the-badge&logo=github&logoColor=white&color=yellow)
-![Forks](https://img.shields.io/github/forks/pat1one/telegram-forward-bot?style=for-the-badge&logo=github&logoColor=white&color=blue)
 
 ---
 
@@ -144,7 +97,6 @@
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/aegnux)
 ![Stars](https://img.shields.io/github/stars/pat1one/aegnux?style=for-the-badge&logo=github&logoColor=white&color=yellow)
-![Forks](https://img.shields.io/github/forks/pat1one/aegnux?style=for-the-badge&logo=github&logoColor=white&color=blue)
 
 </div>
 
@@ -204,6 +156,7 @@
 [![Email](https://img.shields.io/badge/Advertising-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drow.battle.2025@gmail.com)
 [![Taplink](https://img.shields.io/badge/All_Links-Taplink-00D9FF?style=for-the-badge&logo=linktree&logoColor=white)](https://taplink.cc/mscpat)
 [![Twitch](https://img.shields.io/badge/Stream-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pattmsc)
+[![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mscpatt)
 
 </div>
 
