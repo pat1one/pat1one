@@ -17,13 +17,10 @@
 
 ### 🖥️ Operating Systems
 
-![CachyOS](https://img.shields.io/badge/🐧_Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/_Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/🎮_Gaming-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![macOS](https://img.shields.io/badge/🍎_Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/_Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-**🐧 Primary:** CachyOS (Arch-based) - development and daily tasks  
-**🎮 Gaming:** Windows 11 Pro - gaming sessions  
-**🍎 Experience:** macOS - previously used
 
 **🐧 Primary:** CachyOS (Arch-based) - development and daily tasks  
 
