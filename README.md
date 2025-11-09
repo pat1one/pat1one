@@ -1,4 +1,4 @@
-# 👋 Hello! I am Platon (pat1one)
+# 👋 Hi there! I'm Platon (pat1one)
 
 <div align="center">
   
@@ -16,13 +16,13 @@
 
 ### 🖥️ Operating Systems
 
-![CachyOS](https://img.shields.io/badge/_Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/🐧_Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/🎮_Gaming-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![macOS](https://img.shields.io/badge/_Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/🍎_Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-**🐧 Primary:** CachyOS (Arch-based) - разработка и повседневные задачи  
-**🎮 Gaming:** Windows 11 Pro - игровые сессии  
-**🍎 Experience:** macOS - использовал ранее
+**🐧 Primary:** CachyOS (Arch-based) - development and daily use  
+**🎮 Gaming:** Windows 11 Pro - gaming sessions  
+**🍎 Experience:** macOS - previously used
 
 ---
 
@@ -108,7 +108,7 @@
 <div align="center">
 
 ### 🤖 [Faceit AI Bot](https://github.com/pat1one/faceit-ai-bot)
-> Бот для анализа игроков CS2 на платформе Faceit с использованием Groq AI
+> CS2 player analysis bot for Faceit platform using Groq AI
 
 **Stack:** Python • FastAPI • Next.js • TypeScript • PostgreSQL • Groq AI • LangChain • Docker
 
@@ -119,7 +119,7 @@
 ---
 
 ### 🎮 [Multimodal Gaming AI Chat](https://github.com/pat1one/multimodal-gaming-ai-chat)
-> Мультимодальный AI чат-бот для геймеров
+> Multimodal AI chat bot for gamers
 
 **Stack:** Python • AI/ML • NLP
 
@@ -129,7 +129,7 @@
 ---
 
 ### 📺 [Stream AI Bot](https://github.com/pat1one/stream-ai-bot)
-> Бот для автоматизации стримов на Twitch/YouTube
+> Bot for Twitch/YouTube stream automation
 
 **Stack:** JavaScript • Node.js • APIs
 
@@ -139,7 +139,7 @@
 ---
 
 ### 💬 [Telegram Forward Bot](https://github.com/pat1one/telegram-forward-bot)
-> Автоматическая пересылка сообщений в Telegram
+> Automated message forwarding in Telegram
 
 **Stack:** Python • Telegram API • SQLite
 
@@ -149,7 +149,7 @@
 ---
 
 ### 🐧 [Aegnux](https://github.com/pat1one/aegnux)
-> Установка Adobe After Effects на Linux через Wine
+> Adobe After Effects on Linux via Wine
 
 **Stack:** Python • Shell • Wine • Linux
 
@@ -214,9 +214,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**🔷 Go** - высокопроизводительные микросервисы  
-**☸️ Kubernetes** - оркестрация контейнеров для масштабирования  
-**📊 GraphQL** - современные API для фронтенда
+**🔷 Go** - high-performance microservices  
+**☸️ Kubernetes** - container orchestration  
+**📊 GraphQL** - modern frontend APIs
 
 </div>
 
