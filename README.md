@@ -1,10 +1,10 @@
-# 👋 Привет! Я Platon (pat1one)
+# 👋 Hello! I am Platon (pat1one)
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=IT+%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82+%F0%9F%92%BB;Data+Science+%26+ML+%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%F0%9F%93%8A;%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80+%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0+%F0%9F%9B%A1%EF%B8%8F;ex+Dota+%E2%86%92+CS2+%D0%98%D0%B3%D1%80%D0%BE%D0%BA+%F0%9F%8E%AE;%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81:+%40prdrow+%F0%9F%93%AC;Email:+drow.battle.2025%40gmail.com+%F0%9F%93%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=IT+Specialist+%F0%9F%92%BB;Data+Science+%26+ML+Engineer+%F0%9F%93%8A;Channel+Moderator+%F0%9F%9B%A1%EF%B8%8F;ex+Dota+%E2%86%92+CS2+Player+%F0%9F%8E%AE;Business:+%40prdrow+%F0%9F%93%AC;Email:+drow.battle.2025%40gmail.com+%F0%9F%93%A7)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=for-the-badge&label=%D0%9F%D0%A0%D0%9E%D0%A1%D0%9C%D0%9E%D0%A2%D0%A0%D0%AB)
+![Profile Views](https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -103,7 +103,7 @@
 
 ---
 
-## 🎯 Мои Проекты
+## 🎯 My Projects
 
 <div align="center">
 
@@ -222,15 +222,15 @@
 
 ---
 
-## 💼 Контакты
+## 💼 Contacts
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Бизнес-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prdrow)
-[![Email](https://img.shields.io/badge/Реклама-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drow.battle.2025@gmail.com)
-[![Taplink](https://img.shields.io/badge/Все_Ссылки-Taplink-00D9FF?style=for-the-badge&logo=linktree&logoColor=white)](https://taplink.cc/mscpat)
-[![Twitch](https://img.shields.io/badge/Стрим-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pattmsc)
-[![YouTube](https://img.shields.io/badge/Видео-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mscpatt)
+[![Telegram](https://img.shields.io/badge/Business-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prdrow)
+[![Email](https://img.shields.io/badge/Advertising-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drow.battle.2025@gmail.com)
+[![Taplink](https://img.shields.io/badge/All_Links-Taplink-00D9FF?style=for-the-badge&logo=linktree&logoColor=white)](https://taplink.cc/mscpat)
+[![Twitch](https://img.shields.io/badge/Stream-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pattmsc)
+[![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mscpatt)
 
 </div>
 
@@ -238,8 +238,6 @@
 
 <div align="center">
 
-**⭐ От [pat1one](https://github.com/pat1one) с 💙**
+**⭐ From [pat1one](https://github.com/pat1one) with 💙**
 
 </div>
-
-
