@@ -16,8 +16,6 @@
 
 ### 🖥️ Operating Systems
 
-### 🖥️ Operating Systems
-
 ![CachyOS](https://img.shields.io/badge/Daily_Driver-CachyOS-FF6600?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Gaming-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
