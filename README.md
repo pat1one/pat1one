@@ -16,14 +16,13 @@
 
 ### 🖥️ Operating Systems
 
-![CachyOS](https://img.shields.io/badge/Daily_Driver-CachyOS-FF6600?style=for-the-badge&logo=archlinux&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Gaming-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![CachyOS](https://img.shields.io/badge/Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Gaming-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![macOS](https://img.shields.io/badge/Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-**🐧 Daily Driver:** Arch Linux (CachyOS) - для разработки и повседневных задач  
-**🎮 Gaming:** Windows 11 Pro - для игровых сессий  
-**🍎 Experience:** macOS - использовал ранее
-
+**🐧 Primary:** CachyOS (Arch-based) - development and daily tasks  
+**🎮 Gaming:** Windows 11 Pro - gaming sessions  
+**🍎 Experience:** macOS - previously used
 ---
 
 ### ⚙️ Hardware Specs
