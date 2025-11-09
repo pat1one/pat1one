@@ -2,9 +2,37 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=IT+Specialist+%F0%9F%92%BB;Data+Science+%26+ML+Engineer+%F0%9F%93%8A;Channel+Moderator+%F0%9F%9B%A1%EF%B8%8F;ex+Dota+%E2%86%92+CS2+Player+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=IT+Specialist+%F0%9F%92%BB;Data+Science+%26+ML+Engineer+%F0%9F%93%8A;Channel+Moderator+%F0%9F%9B%A1%EF%B8%8F;ex+Dota+%E2%86%92+CS2+Player+%F0%9F%8E%AE;Business:+%40prdrow+%F0%9F%93%AC;Email:+drow.battle.2025%40gmail.com+%F0%9F%93%A7)](https://git.io/typing-svg)
 
-📬 **Business:** [@prdrow](https://t.me/prdrow)
+</div>
+
+---
+
+## 📊 Live Activity & Status
+
+<div align="center">
+
+### 🎵 Now Playing on Spotify
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31l26cwhbjgbz5kj6hutxjz6qhqm&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=2e9ef7&bar_color_cover=true)](https://open.spotify.com/user/31l26cwhbjgbz5kj6hutxjz6qhqm)
+
+---
+
+### 💬 Discord Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/1234567890?theme=dark&bg=0d1117&borderRadius=10px)](https://discord.com/users/1234567890)
+
+---
+
+### 🎮 Twitch & YouTube
+
+| Platform | Status |
+|:---:|:---:|
+| **Twitch** | [![Twitch Status](https://img.shields.io/twitch/status/pattmsc?style=for-the-badge&logo=twitch&logoColor=white&label=LIVE&color=9146FF)](https://twitch.tv/pattmsc) |
+| **YouTube** | [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=SUBS&color=FF0000)](https://youtube.com/@твой_канал) |
+
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=for-the-badge&label=VIEWS)
 
 </div>
 
@@ -40,24 +68,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
----
-
-## 📊 Live Activity
-
-<div align="center">
-
-| 🎮 Twitch | 👀 Profile Views |
-|:---:|:---:|
-| [![Twitch](https://img.shields.io/twitch/status/pattmsc?style=social&logo=twitch)](https://twitch.tv/pattmsc) | ![](https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=flat-square) |
-
-<!-- 
-TODO: Добавить позже:
-- 🎵 Spotify: https://github.com/novatorem/novatorem
-- 📺 YouTube Stats: нужен Channel ID
--->
 
 </div>
 
