@@ -4,16 +4,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=IT+Specialist+%F0%9F%92%BB;Data+Science+%26+ML+Engineer+%F0%9F%93%8A;Channel+Moderator+%F0%9F%9B%A1%EF%B8%8F;ex+Dota+%E2%86%92+CS2+Player+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-</div>
-
----
-
-## 🚀 О себе
-
-<div align="center">
-
-💼 **IT Specialist** | 📊 **Data Science & ML Engineer** | 🛡️ **Channel Moderator** | 🎮 **ex Dota → CS2 Player**
-
 📬 **Business:** [@prdrow](https://t.me/prdrow)
 
 </div>
@@ -59,9 +49,15 @@
 
 <div align="center">
 
-| 🎮 Twitch | 📺 YouTube | 👀 Profile Views |
-|:---:|:---:|:---:|
-| [![Twitch](https://img.shields.io/twitch/status/pattmsc?style=social&logo=twitch)](https://twitch.tv/pattmsc) | [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://youtube.com/@твой_канал) | ![](https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=flat-square) |
+| 🎮 Twitch | 👀 Profile Views |
+|:---:|:---:|
+| [![Twitch](https://img.shields.io/twitch/status/pattmsc?style=social&logo=twitch)](https://twitch.tv/pattmsc) | ![](https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=flat-square) |
+
+<!-- 
+TODO: Добавить позже:
+- 🎵 Spotify: https://github.com/novatorem/novatorem
+- 📺 YouTube Stats: нужен Channel ID
+-->
 
 </div>
 
