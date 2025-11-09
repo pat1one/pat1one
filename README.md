@@ -21,7 +21,9 @@
 ![macOS](https://img.shields.io/badge/Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 **🐧 Primary:** CachyOS (Arch-based) - development and daily tasks  
+
 **🎮 Gaming:** Windows 11 Pro - gaming sessions  
+
 **🍎 Experience:** macOS - previously used
 ---
 
