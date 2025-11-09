@@ -10,6 +10,24 @@
 
 ---
 
+## 💻 My Setup
+
+<div align="center">
+
+### Operating Systems
+
+![Arch Linux](https://img.shields.io/badge/Daily_Driver-Arch_Linux_(CachyOS)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Gaming-Windows_11_Pro-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![macOS](https://img.shields.io/badge/Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**🐧 Daily Driver:** Arch Linux (CachyOS) - для разработки и повседневных задач  
+**🎮 Gaming:** Windows 11 Pro - для игровых сессий  
+**🍎 Experience:** macOS - использовал ранее
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -33,7 +51,7 @@
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=ai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -50,9 +68,9 @@
 <div align="center">
 
 ### 🤖 [Faceit AI Bot](https://github.com/pat1one/faceit-ai-bot)
-> Бот для анализа игроков CS2 на платформе Faceit с использованием GPT-4
+> Бот для анализа игроков CS2 на платформе Faceit с использованием Groq AI
 
-**Stack:** Python • FastAPI • Next.js • TypeScript • PostgreSQL • OpenAI • LangChain • Docker
+**Stack:** Python • FastAPI • Next.js • TypeScript • PostgreSQL • Groq AI • LangChain • Docker
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/faceit-ai-bot)
 ![Stars](https://img.shields.io/github/stars/pat1one/faceit-ai-bot?style=for-the-badge&logo=github&logoColor=white&color=yellow)
