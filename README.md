@@ -27,12 +27,43 @@
 
 ---
 
-## 🎯 Проекты
+## 🎯 Мои проекты
 
 ### 🤖 [Faceit AI Bot](https://github.com/pat1one/faceit-ai-bot)
 > Анализ игроков CS2 и поиск тиммейтов с использованием GPT-4
 
+**Технологии:** Python, FastAPI, Next.js, TypeScript, PostgreSQL, OpenAI
+
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/faceit-ai-bot)
+[![Stars](https://img.shields.io/github/stars/pat1one/faceit-ai-bot?style=for-the-badge)](https://github.com/pat1one/faceit-ai-bot)
+
+---
+
+### 🎮 [Multimodal Gaming AI Chat](https://github.com/pat1one/multimodal-gaming-ai-chat)
+> Мультимодальный чат для геймеров
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/multimodal-gaming-ai-chat)
+
+---
+
+### 🌐 [MSCPatt](https://github.com/pat1one/mscpatt)
+> Веб-проект
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/mscpatt)
+
+---
+
+### 🔧 [MSCPatt Node](https://github.com/pat1one/mscpatt-node)
+> Node.js проект
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/mscpatt-node)
+
+---
+
+### 🐧 [Aegnux](https://github.com/pat1one/aegnux)
+> Linux проект
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/aegnux)
 
 ---
 
@@ -43,6 +74,20 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pat1one&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pat1one&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pat1one&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![Faceit AI Bot](https://github-readme-stats.vercel.app/api/pin/?username=pat1one&repo=faceit-ai-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/pat1one/faceit-ai-bot)
+
+[![Multimodal Gaming AI](https://github-readme-stats.vercel.app/api/pin/?username=pat1one&repo=multimodal-gaming-ai-chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/pat1one/multimodal-gaming-ai-chat)
 
 </div>
 
