@@ -16,38 +16,13 @@
 
 ---
 
-## 📊 Live Stats & Activity
+## 📊 Live Activity
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎵 Сейчас слушаю</h3>
-      <a href="https://open.spotify.com/user/твой_spotify_id">
-        <img src="https://novatorem-git-master-pattmsc.vercel.app/api/spotify" alt="Spotify" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>💬 Discord Status</h3>
-      <a href="https://discord.com/users/твой_discord_id">
-        <img src="https://lanyard.cnrad.dev/api/твой_discord_id" alt="Discord" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎮 Twitch</h3>
-      <a href="https://www.twitch.tv/pattmsc">
-        <img src="https://img.shields.io/twitch/status/pattmsc?style=for-the-badge&logo=twitch&logoColor=white&label=Stream&color=9146FF" alt="Twitch" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📺 YouTube</h3>
-      <img src="https://img.shields.io/youtube/channel/subscribers/твой_channel_id?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000" alt="YouTube Subs" />
-    </td>
-  </tr>
-</table>
+| 🎮 Twitch | 📺 YouTube | 👀 Profile Views |
+|:---:|:---:|:---:|
+| [![Twitch](https://img.shields.io/twitch/status/pattmsc?style=social&logo=twitch)](https://twitch.tv/pattmsc) | [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://youtube.com/@твой_канал) | ![](https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=flat-square) |
 
 </div>
 
@@ -264,12 +239,6 @@
 ---
 
 <div align="center">
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/pat1one/count.svg)
-
----
 
 **⭐ From [pat1one](https://github.com/pat1one) with 💙**
 
