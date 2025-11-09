@@ -211,6 +211,60 @@
 
 ---
 
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**🦀 Rust** - системное программирование и производительность  
+**☸️ Kubernetes** - оркестрация контейнеров для масштабирования  
+**📊 GraphQL** - современные API для фронтенда
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| Achievement | Description | Year |
+|-------------|-------------|------|
+| 🎓 **CS Degree** | Computer Science Bachelor | 2023 |
+| 🏆 **Top Contributor** | Open Source Projects | 2024 |
+| 📜 **AWS Certified** | Cloud Practitioner | 2024 |
+| 🎮 **Faceit Level 10** | CS2 Competitive | 2025 |
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+<div align="center">
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Platon"
+        self.role = "Full Stack Developer"
+        self.location = "Russia"
+        self.languages = ["Python", "TypeScript", "JavaScript"]
+        self.hobbies = ["Gaming", "Streaming", "Open Source"]
+        
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something awesome together!")
+
+me = Developer()
+me.say_hi()
+
+---
+
 ## 💼 Контакты
 
 <div align="center">
