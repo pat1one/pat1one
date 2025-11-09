@@ -25,6 +25,8 @@
 **🎮 Gaming:** Windows 11 Pro - gaming sessions  
 
 **🍎 Experience:** macOS - previously used
+
+
 ---
 
 ### ⚙️ Hardware Specs
