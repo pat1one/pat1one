@@ -64,6 +64,32 @@
 | **📷 Camera** | Sony Alpha 6000 |
 | **🔭 Lens** | Sigma AF 16mm f/1.4 |
 
+---
+
+### 📱 Mobile Devices
+
+![iPhone](https://img.shields.io/badge/Current-iPhone_15_Pro_Max-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Previous-Redmi_(Android)-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
+
+| Device | Details |
+|--------|---------|
+| **📱 Current** | iPhone 15 Pro Max |
+| **📱 Previous** | Android (Redmi series) |
+
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+![Russian](https://img.shields.io/badge/Russian-Native-0039A6?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B2%2FC1-012169?style=for-the-badge)
+
+**🇷🇺 Russian:** Native speaker  
+**🇺🇸 English:** B2/C1 - Advanced/Proficiency
+
 </div>
 
 ---
@@ -72,32 +98,59 @@
 
 <div align="center">
 
+### 💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 📊 Data Science & ML
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=ai&logoColor=white)
+### 🤖 AI & LLMs
+
+![Anthropic](https://img.shields.io/badge/Claude-Sonnet_&_Opus-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4_&_GPT--3.5-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLMs-F55036?style=for-the-badge&logo=ai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**🧠 AI Models:**
+- **Claude** (Sonnet, Opus) - Advanced reasoning
+- **OpenAI** (GPT-4, GPT-3.5) - Various tasks
+- **Groq** - Ultra-fast inference
+- **LangChain** - AI orchestration & RAG
+
+### 🛠️ DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -148,10 +201,11 @@
 
 ---
 
-### 🐧 [Aegnux](https://github.com/pat1one/aegnux)
+### 🐧 [Aegnux](https://github.com/pat1one/aegnux) (Fork)
 > Adobe After Effects on Linux via Wine
 
-**Stack:** Python • Shell • Wine • Linux
+**Stack:** Python • Shell • Wine • Linux  
+**Note:** My fork with improvements and fixes
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/aegnux)
 ![Stars](https://img.shields.io/github/stars/pat1one/aegnux?style=for-the-badge&logo=github&logoColor=white&color=yellow)
