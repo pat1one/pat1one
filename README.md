@@ -69,12 +69,12 @@
 ### 📱 Mobile Devices
 
 ![iPhone](https://img.shields.io/badge/Current-iPhone_15_Pro_Max-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Previous-Redmi_(Android)-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
+![iPhone](https://img.shields.io/badge/Previous-iPhone_14_Pro_Max-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 | Device | Details |
 |--------|---------|
 | **📱 Current** | iPhone 15 Pro Max |
-| **📱 Previous** | Android (Redmi series) |
+| **📱 Previous** | iPhone 14 Pro Max |
 
 </div>
 
@@ -86,9 +86,11 @@
 
 ![Russian](https://img.shields.io/badge/Russian-Native-0039A6?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-B2%2FC1-012169?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-N4_Level_(N5_Passed)-BC002D?style=for-the-badge)
 
 **🇷🇺 Russian:** Native speaker  
-**🇺🇸 English:** B2/C1 - Advanced/Proficiency
+**🇺🇸 English:** B2/C1 - Advanced/Proficiency  
+**🇯🇵 Japanese:** Studied to N4 level (passed N5 exam)
 
 </div>
 
