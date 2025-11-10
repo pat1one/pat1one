@@ -86,11 +86,11 @@
 
 ![Russian](https://img.shields.io/badge/Russian-Native-0039A6?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-B2%2FC1-012169?style=for-the-badge)
-![Japanese](https://img.shields.io/badge/Japanese-N4_Level_(N5_Passed)-BC002D?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-N5_Passed-BC002D?style=for-the-badge)
 
 **🇷🇺 Russian:** Native speaker  
 **🇺🇸 English:** B2/C1 - Advanced/Proficiency  
-**🇯🇵 Japanese:** Studied to N4 level (passed N5 exam)
+**🇯🇵 Japanese:** Studied at online language school, passed N5 exam
 
 </div>
 
@@ -153,6 +153,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### ⌨️ Code Editors
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium_(Linux)-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![LazyVim](https://img.shields.io/badge/LazyVim-2C2D72?style=for-the-badge&logo=neovim&logoColor=white)
+
+**📝 My Editors:**
+- **VS Code** - Primary editor on Windows/macOS
+- **VSCodium** - Primary editor on Linux (CachyOS)
+- **Neovim + LazyVim** - Terminal-based coding, fully configured
 
 </div>
 
