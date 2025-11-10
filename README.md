@@ -169,6 +169,7 @@
 </div>
 
 ---
+
 ## 🔌 VSCode/VSCodium Extensions
 
 <details>
@@ -225,30 +226,6 @@
 - **Russian Language Pack** (`ms-ceintl.vscode-language-pack-ru`) - Russian localization
 
 </details>
-
-<details>
-<summary><b>📦 Quick Install All Extensions</b></summary>
-
-bash
-code --install-extension christian-kohler.npm-intellisense
-code --install-extension darkempire78.discord-tools
-code --install-extension firefox-devtools.vscode-firefox-debug
-code --install-extension github.codespaces
-code --install-extension github.copilot
-code --install-extension github.copilot-chat
-code --install-extension github.vscode-github-actions
-code --install-extension icrawl.discord-vscode
-code --install-extension leonardssh.vscord
-code --install-extension ms-azuretools.vscode-containers
-code --install-extension ms-ceintl.vscode-language-pack-ru
-code --install-extension ms-python.debugpy
-code --install-extension ms-python.python
-code --install-extension ms-python.vscode-pylance
-code --install-extension ms-python.vscode-python-envs
-code --install-extension ms-vscode-remote.remote-containers
-code --install-extension mtxr.sqltools
-code --install-extension vscodevim.vim
-code --install-extension wasimaster.discord-py-snippets
 
 ---
 
