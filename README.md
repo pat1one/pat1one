@@ -169,7 +169,86 @@
 </div>
 
 ---
+## 🔌 VSCode/VSCodium Extensions
 
+<details>
+<summary><b>🤖 AI & Productivity</b></summary>
+
+- **GitHub Copilot** (`github.copilot`) - AI code assistant
+- **GitHub Copilot Chat** (`github.copilot-chat`) - Interactive AI chat
+- **npm IntelliSense** (`christian-kohler.npm-intellisense`) - Auto-complete npm modules
+
+</details>
+
+<details>
+<summary><b>🐍 Python Development</b></summary>
+
+- **Python** (`ms-python.python`) - Full Python support: linting, debugging, IntelliSense
+- **Pylance** (`ms-python.vscode-pylance`) - Fast language server with type checking
+- **Python Debugger** (`ms-python.debugpy`) - Python debugger
+- **Python Environments** (`ms-python.vscode-python-envs`) - Virtual environment manager
+
+</details>
+
+<details>
+<summary><b>🐳 Containers & DevOps</b></summary>
+
+- **Dev Containers** (`ms-vscode-remote.remote-containers`) - Develop inside Docker containers
+- **Docker** (`ms-azuretools.vscode-containers`) - Manage Docker containers and images
+- **GitHub Actions** (`github.vscode-github-actions`) - CI/CD workflows integration
+- **GitHub Codespaces** (`github.codespaces`) - Cloud development environments
+
+</details>
+
+<details>
+<summary><b>🗄️ Database</b></summary>
+
+- **SQLTools** (`mtxr.sqltools`) - Database connections (PostgreSQL, MySQL, SQLite, etc.)
+
+</details>
+
+<details>
+<summary><b>💬 Discord Integration</b></summary>
+
+- **Discord Tools** (`darkempire78.discord-tools`) - Discord development tools
+- **vscord** (`leonardssh.vscord`) - Discord Rich Presence
+- **Discord.py Snippets** (`wasimaster.discord-py-snippets`) - Discord bot snippets
+- **Discord VSCode** (`icrawl.discord-vscode`) - Additional Discord integration
+
+</details>
+
+<details>
+<summary><b>🔧 Development Tools</b></summary>
+
+- **Firefox Debugger** (`firefox-devtools.vscode-firefox-debug`) - Debug web apps in Firefox
+- **Vim** (`vscodevim.vim`) - Vim keybindings for efficient editing
+- **Russian Language Pack** (`ms-ceintl.vscode-language-pack-ru`) - Russian localization
+
+</details>
+
+<details>
+<summary><b>📦 Quick Install All Extensions</b></summary>
+
+bash
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension darkempire78.discord-tools
+code --install-extension firefox-devtools.vscode-firefox-debug
+code --install-extension github.codespaces
+code --install-extension github.copilot
+code --install-extension github.copilot-chat
+code --install-extension github.vscode-github-actions
+code --install-extension icrawl.discord-vscode
+code --install-extension leonardssh.vscord
+code --install-extension ms-azuretools.vscode-containers
+code --install-extension ms-ceintl.vscode-language-pack-ru
+code --install-extension ms-python.debugpy
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-python.vscode-python-envs
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension mtxr.sqltools
+code --install-extension vscodevim.vim
+code --install-extension wasimaster.discord-py-snippets
 ## 🎯 My Projects
 
 <div align="center">
