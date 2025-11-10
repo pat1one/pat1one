@@ -249,6 +249,9 @@ code --install-extension ms-vscode-remote.remote-containers
 code --install-extension mtxr.sqltools
 code --install-extension vscodevim.vim
 code --install-extension wasimaster.discord-py-snippets
+
+---
+
 ## 🎯 My Projects
 
 <div align="center">
