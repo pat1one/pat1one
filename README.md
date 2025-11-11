@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=250&section=header&text=Platon%20%7C%20Full-Stack%20Developer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Python%20•%20JavaScript%20•%20TypeScript%20•%20Docker&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=250&section=header&text=Platon&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer&descAlignY=55&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%92%BB;Data+Science+%26+Python+Engineer+%F0%9F%93%8A;Backend+Specialist+%F0%9F%9B%A1%EF%B8%8F;CS2+Analytics+Platform+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Backend+%26+Frontend+Development+%F0%9F%92%BB;CS2+Analytics+Platform+%F0%9F%8E%AE;Production-Ready+Applications+%F0%9F%9A%80;Available+for+Freelance+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pat1one&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -18,11 +18,11 @@
 
 ![CachyOS](https://img.shields.io/badge/🐧_Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/🎮_Gaming-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![macOS](https://img.shields.io/badge/🍎_Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 **🐧 Primary:** CachyOS (Arch-based) - development and daily use  
 **🎮 Gaming:** Windows 11 Pro - gaming sessions  
-**🍎 Experience:** macOS - previously used
+**Experience:** macOS - previously used
 
 </div>
 
@@ -33,10 +33,12 @@
 <div align="center">
 
 ![Russian](https://img.shields.io/badge/Russian-Native-0039A6?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Professional-012169?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B2%2FC1-012169?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-N5_Passed-BC002D?style=for-the-badge)
 
 **🇷🇺 Russian:** Native speaker  
-**🇺🇸 English:** Professional working proficiency
+**🇺🇸 English:** B2/C1 - Advanced/Proficiency  
+**🇯🇵 Japanese:** Studied at online language school, passed N5 exam
 
 </div>
 
@@ -52,6 +54,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend
 
@@ -90,46 +94,76 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ⌨️ Editors
+### ⌨️ Code Editors
 
-![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium_(Linux)-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![LazyVim](https://img.shields.io/badge/LazyVim-2C2D72?style=for-the-badge&logo=neovim&logoColor=white)
+
+**📝 My Editors:**
+- **VS Code** - Primary editor on Windows/macOS
+- **VSCodium** - Primary editor on Linux (CachyOS)
+- **Neovim + LazyVim** - Terminal-based coding, fully configured
 
 </div>
 
 ---
 
-## 🔌 VSCode Extensions
+## 🔌 VSCode/VSCodium Extensions
 
 <details>
-<summary><b>🐍 Python</b></summary>
+<summary><b>🤖 AI & Productivity</b></summary>
 
-- Python, Pylance, Python Debugger
-- Python Environment Manager
+- **GitHub Copilot** (`github.copilot`) - AI code assistant
+- **GitHub Copilot Chat** (`github.copilot-chat`) - Interactive AI chat
+- **npm IntelliSense** (`christian-kohler.npm-intellisense`) - Auto-complete npm modules
 
 </details>
 
 <details>
-<summary><b>🐳 DevOps</b></summary>
+<summary><b>🐍 Python Development</b></summary>
 
-- Docker, Dev Containers
-- GitHub Actions
+- **Python** (`ms-python.python`) - Full Python support: linting, debugging, IntelliSense
+- **Pylance** (`ms-python.vscode-pylance`) - Fast language server with type checking
+- **Python Debugger** (`ms-python.debugpy`) - Python debugger
+- **Python Environments** (`ms-python.vscode-python-envs`) - Virtual environment manager
+
+</details>
+
+<details>
+<summary><b>🐳 Containers & DevOps</b></summary>
+
+- **Dev Containers** (`ms-vscode-remote.remote-containers`) - Develop inside Docker containers
+- **Docker** (`ms-azuretools.vscode-docker`) - Manage Docker containers and images
+- **GitHub Actions** (`github.vscode-github-actions`) - CI/CD workflows integration
+- **GitHub Codespaces** (`github.codespaces`) - Cloud development environments
 
 </details>
 
 <details>
 <summary><b>🗄️ Database</b></summary>
 
-- SQLTools (PostgreSQL, MySQL, SQLite)
+- **SQLTools** (`mtxr.sqltools`) - Database connections (PostgreSQL, MySQL, SQLite, etc.)
 
 </details>
 
 <details>
-<summary><b>🔧 Tools</b></summary>
+<summary><b>💬 Discord Integration</b></summary>
 
-- ESLint, Prettier, GitLens
-- Thunder Client, Live Server
+- **Discord Tools** (`darkempire78.discord-tools`) - Discord development tools
+- **vscord** (`leonardssh.vscord`) - Discord Rich Presence
+- **Discord.py Snippets** (`wasimaster.discord-py-snippets`) - Discord bot snippets
+- **Discord VSCode** (`icrawl.discord-vscode`) - Additional Discord integration
+
+</details>
+
+<details>
+<summary><b>🔧 Development Tools</b></summary>
+
+- **Firefox Debugger** (`firefox-devtools.vscode-firefox-debug`) - Debug web apps in Firefox
+- **Vim** (`vscodevim.vim`) - Vim keybindings for efficient editing
+- **Russian Language Pack** (`ms-ceintl.vscode-language-pack-ru`) - Russian localization
 
 </details>
 
@@ -151,7 +185,7 @@
 - 🐳 Full Docker deployment
 - 🔒 JWT authentication
 
-🌐 **Live:** https://pattmsc.ru
+🌐 **Live:** https://pattmsc.online
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat1one/faceit-ai-bot)
 
@@ -234,13 +268,15 @@
 
 ---
 
-## 📚 Learning
+## 📚 Currently Learning
 
 <div align="center">
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+**🔷 Go** - High-performance microservices  
 **☸️ Kubernetes** - Container orchestration  
 **📊 GraphQL** - Modern API design
 
@@ -255,7 +291,7 @@
 [![Telegram](https://img.shields.io/badge/Business-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prdrow)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drow.battle.2025@gmail.com)
 [![Taplink](https://img.shields.io/badge/Links-Taplink-00D9FF?style=for-the-badge&logo=linktree&logoColor=white)](https://taplink.cc/mscpat)
-[![Website](https://img.shields.io/badge/Website-pattmsc.ru-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pattmsc.ru)
+[![Website](https://img.shields.io/badge/Website-pattmsc.online-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pattmsc.online)
 
 [![Twitch](https://img.shields.io/badge/Stream-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pattmsc)
 [![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mscpatt)
