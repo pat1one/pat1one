@@ -311,6 +311,4 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer)
 
-**⭐ From [pat1one](https://github.com/pat1one) with 💙**
-
 </div>
