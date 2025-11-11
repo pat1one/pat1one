@@ -16,13 +16,65 @@
 
 **Full-Stack Developer** с опытом разработки production-ready приложений
 
-### Специализация
-- **Backend:** Python (FastAPI, Django), Node.js, Celery
-- **Frontend:** JavaScript, TypeScript, React, Next.js
-- **Data:** SQL, PostgreSQL, Redis, Data Analysis
-- **DevOps:** Docker, Nginx, CI/CD, Linux
+### 💻 Setup
 
-### Текущие проекты
+**Operating Systems**
+- 🐧 Primary: **CachyOS** (Arch-based) - development and daily use
+- 🎮 Gaming: **Windows 11 Pro** - gaming sessions
+- 🍎 Experience: **macOS** - previously used
+
+**Code Editors**
+- **VSCodium** - primary editor
+- **Vim** - terminal editing
+- **Cursor** - AI-assisted development
+
+**Shell & Tools**
+- **Fish Shell** - interactive shell
+- **Zsh** - alternative shell
+- **tmux** - terminal multiplexer
+- **Git** - version control
+
+### 🌐 Languages
+
+**Human Languages**
+- 🇷🇺 Russian - Native
+- 🇬🇧 English - Professional
+
+**Programming Languages**
+- Python, JavaScript, TypeScript, SQL, Bash/Shell
+
+### 🎯 Специализация
+
+**Backend Development**
+- Python (FastAPI, Django)
+- Node.js, Express
+- Celery (background tasks)
+- RESTful API design
+
+**Frontend Development**
+- JavaScript, TypeScript
+- React, Next.js
+- TailwindCSS
+- Responsive design
+
+**Data & Databases**
+- SQL, PostgreSQL, Redis
+- Data analysis (Pandas, NumPy)
+- Database optimization
+
+**DevOps & Infrastructure**
+- Docker, Docker Compose
+- Nginx, reverse proxy
+- CI/CD (GitHub Actions)
+- Linux administration
+
+### 📚 Currently Learning
+- Advanced PostgreSQL optimization
+- Kubernetes
+- System design patterns
+- Performance optimization
+
+### 🚀 Current Focus
 - CS2 Analytics Platform (https://pattmsc.ru)
 - Data Processing & Automation
 - Full-Stack Web Applications
@@ -51,10 +103,41 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### DevOps
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Development Environment</b></summary>
+
+### Editors & IDEs
+- VSCodium (primary)
+- Vim/Neovim
+- Cursor
+
+### Terminal
+- Fish Shell
+- Zsh
+- tmux
+
+### Operating Systems
+- CachyOS (Arch Linux)
+- Windows 11 Pro
+- macOS (experience)
+
+### VSCode/VSCodium Extensions
+- Python
+- Pylance
+- ESLint
+- Prettier
+- Docker
+- GitLens
+- Thunder Client
+- Live Server
 
 </details>
 
