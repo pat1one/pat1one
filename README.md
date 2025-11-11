@@ -16,19 +16,19 @@
 
 **Full-Stack Developer** с опытом разработки production-ready приложений
 
-### 💻 Setup
+### 💻 My Setup
 
-**Operating Systems**
-- 🐧 Primary: **CachyOS** (Arch-based) - development and daily use
-- 🎮 Gaming: **Windows 11 Pro** - gaming sessions
-- 🍎 Experience: **macOS** - previously used
+#### 🖥️ Operating Systems
+- 🐧 **Primary:** CachyOS (Arch-based) - development and daily use
+- 🎮 **Gaming:** Windows 11 Pro - gaming sessions
+- 🍎 **Experience:** macOS - previously used
 
-**Code Editors**
+#### ⌨️ Code Editors
 - **VSCodium** - primary editor
 - **Vim** - terminal editing
 - **Cursor** - AI-assisted development
 
-**Shell & Tools**
+#### 🐚 Shell & Tools
 - **Fish Shell** - interactive shell
 - **Zsh** - alternative shell
 - **tmux** - terminal multiplexer
@@ -36,33 +36,29 @@
 
 ### 🌐 Languages
 
-**Human Languages**
-- 🇷🇺 Russian - Native
-- 🇬🇧 English - Professional
-
-**Programming Languages**
-- Python, JavaScript, TypeScript, SQL, Bash/Shell
+- 🇷🇺 **Russian** - Native
+- 🇬🇧 **English** - Professional
 
 ### 🎯 Специализация
 
-**Backend Development**
+#### 🔧 Backend Development
 - Python (FastAPI, Django)
 - Node.js, Express
 - Celery (background tasks)
 - RESTful API design
 
-**Frontend Development**
+#### 🎨 Frontend Development
 - JavaScript, TypeScript
 - React, Next.js
 - TailwindCSS
 - Responsive design
 
-**Data & Databases**
+#### 📊 Data & Databases
 - SQL, PostgreSQL, Redis
 - Data analysis (Pandas, NumPy)
 - Database optimization
 
-**DevOps & Infrastructure**
+#### 🐳 DevOps & Infrastructure
 - Docker, Docker Compose
 - Nginx, reverse proxy
 - CI/CD (GitHub Actions)
@@ -86,24 +82,24 @@
 <details open>
 <summary><b>Languages & Frameworks</b></summary>
 
-### Backend
+### 🔙 Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-### Data & Databases
+### 📊 Data & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### DevOps & Tools
+### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -112,24 +108,24 @@
 </details>
 
 <details>
-<summary><b>Development Environment</b></summary>
+<summary><b>🔌 Development Environment</b></summary>
 
-### Editors & IDEs
+### ⌨️ Editors & IDEs
 - VSCodium (primary)
 - Vim/Neovim
 - Cursor
 
-### Terminal
+### 🐚 Terminal
 - Fish Shell
 - Zsh
 - tmux
 
-### Operating Systems
+### 🖥️ Operating Systems
 - CachyOS (Arch Linux)
 - Windows 11 Pro
 - macOS (experience)
 
-### VSCode/VSCodium Extensions
+### 🔌 VSCode/VSCodium Extensions
 - Python
 - Pylance
 - ESLint
@@ -158,26 +154,26 @@ Production-ready CS2 analytics platform
 **Stack:** FastAPI • PostgreSQL • Redis • Next.js
 
 **Features:**
-- Player statistics & analysis
-- Payment integration (SBP, YooKassa)
-- Background task processing
-- Docker deployment
+- 📊 Player statistics & analysis
+- 💳 Payment integration (SBP, YooKassa)
+- ⚙️ Background task processing
+- 🐳 Docker deployment
 
 🌐 **Live:** https://pattmsc.ru
 
 </td>
 <td width="50%">
 
-#### 🎮 [Gaming AI Chat](https://github.com/pat1one/multimodal-gaming-ai-chat)
+#### 🎮 [Multimodal Gaming AI Chat](https://github.com/pat1one/multimodal-gaming-ai-chat)
 
 Multimodal AI chatbot for gamers
 
 **Stack:** Python • NLP • ML
 
 **Features:**
-- Context-aware responses
-- Multi-platform support
-- Real-time processing
+- 🤖 Context-aware responses
+- 🎯 Multi-platform support
+- ⚡ Real-time processing
 
 </td>
 </tr>
@@ -191,9 +187,9 @@ Twitch/YouTube automation bot
 **Stack:** JavaScript • Node.js • APIs
 
 **Features:**
-- Stream automation
-- Chat interaction
-- WebSocket integration
+- 🔄 Stream automation
+- 💬 Chat interaction
+- 🔌 WebSocket integration
 
 </td>
 <td width="50%">
@@ -205,13 +201,16 @@ Message forwarding system
 **Stack:** Python • Telegram API • SQLite
 
 **Features:**
-- Auto-forwarding
-- Message filtering
-- Async processing
+- ✉️ Auto-forwarding
+- 🔍 Message filtering
+- ⚡ Async processing
 
 </td>
 </tr>
 </table>
+
+#### 🐧 Other Projects
+- **[Aegnux](https://github.com/pat1one/aegnux)** - Adobe After Effects on Linux (Fork with improvements)
 
 [➡️ View all repositories](https://github.com/pat1one?tab=repositories)
 
@@ -241,10 +240,10 @@ Message forwarding system
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:drow.battle.2025@gmail.com)
 
 **Open for:**
-- Freelance Projects
-- Full-Stack Development
-- Data Processing
-- Backend API Development
+- 💻 Freelance Projects
+- 🌐 Full-Stack Development
+- 📊 Data Processing
+- 🔧 Backend API Development
 
 ---
 
