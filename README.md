@@ -14,27 +14,18 @@
 
 ## 💼 About
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Platon"
-        self.role = "Full-Stack Developer"
-        self.location = "Russia"
-        
-    [property](cci:4://file://property:0:0-0:0)
-    def skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "TypeScript", "SQL"],
-            "backend": ["FastAPI", "Django", "Node.js", "Celery"],
-            "frontend": ["React", "Next.js", "TailwindCSS"],
-            "databases": ["PostgreSQL", "Redis", "SQLite"],
-            "devops": ["Docker", "Nginx", "CI/CD", "Linux"],
-            "data": ["Pandas", "NumPy", "SQL", "Analytics"]
-        }
-    
-    def current_focus(self):
-        return ["CS2 Analytics Platform", "Data Processing", "Full-Stack Apps"]
-```
+**Full-Stack Developer** с опытом разработки production-ready приложений
+
+### Специализация
+- **Backend:** Python (FastAPI, Django), Node.js, Celery
+- **Frontend:** JavaScript, TypeScript, React, Next.js
+- **Data:** SQL, PostgreSQL, Redis, Data Analysis
+- **DevOps:** Docker, Nginx, CI/CD, Linux
+
+### Текущие проекты
+- CS2 Analytics Platform (https://pattmsc.ru)
+- Data Processing & Automation
+- Full-Stack Web Applications
 
 ---
 
