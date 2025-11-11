@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=250&section=header&text=Platon&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=250&section=header&text=Platon&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20LLM%20Engineer&descAlignY=55&descSize=20)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Backend+%26+Frontend+Development+%F0%9F%92%BB;CS2+Analytics+Platform+%F0%9F%8E%AE;Production-Ready+Applications+%F0%9F%9A%80;Available+for+Freelance+%F0%9F%92%BC)](https://git.io/typing-svg)
 
@@ -16,9 +16,9 @@
 
 ### 🖥️ Operating Systems
 
-![CachyOS](https://img.shields.io/badge/_Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/🐧_Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/🎮_Gaming-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![macOS](https://img.shields.io/badge/_Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/🍎_Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 **🐧 Primary:** CachyOS (Arch-based) - development and daily use  
 **🎮 Gaming:** Windows 11 Pro - gaming sessions  
