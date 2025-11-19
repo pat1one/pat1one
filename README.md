@@ -36,7 +36,7 @@
 ![iPhone 15 Pro Max](https://img.shields.io/badge/_Current-iPhone_15_Pro_Max-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
 ![iPhone 14 Pro Max](https://img.shields.io/badge/_Previous-iPhone_14_Pro_Max-555555?style=for-the-badge&logo=apple&logoColor=white)
 
-**📱 Current primary device:** iPhone 15 Pro Max — main work, communication and testing device  
+**📱 Current primary device:** iPhone 15 Pro Max — main device
 **📱 Previous primary device:** iPhone 14 Pro Max — previously used as the main smartphone  
 
 ---
@@ -349,7 +349,7 @@
 ![iPhone 15 Pro Max](https://img.shields.io/badge/_Current-iPhone_15_Pro_Max-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
 ![iPhone 14 Pro Max](https://img.shields.io/badge/_Previous-iPhone_14_Pro_Max-555555?style=for-the-badge&logo=apple&logoColor=white)
 
-**📱 Текущее основное устройство:** iPhone 15 Pro Max — смартфон для работы, связи и тестов  
+**📱 Текущее основное устройство:** iPhone 15 Pro Max — основной смартфон
 **📱 Предыдущее основное устройство:** iPhone 14 Pro Max — раньше основной телефон  
 
 ---
