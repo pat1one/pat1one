@@ -28,6 +28,8 @@
 
 ---
 
+<div align="center">
+  
 ### 📱 Mobile Devices
 
 ![iPhone 15 Pro Max](https://img.shields.io/badge/_Current-iPhone_15_Pro_Max-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
