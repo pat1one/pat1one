@@ -36,7 +36,7 @@
 ![iPhone 15 Pro Max](https://img.shields.io/badge/_Current-iPhone_15_Pro_Max-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
 ![iPhone 14 Pro Max](https://img.shields.io/badge/_Previous-iPhone_14_Pro_Max-555555?style=for-the-badge&logo=apple&logoColor=white)
 
-**📱 Current primary device:** iPhone 15 Pro Max — main device
+**📱 Current primary device:** iPhone 15 Pro Max — main device  
 **📱 Previous primary device:** iPhone 14 Pro Max — previously used as the main smartphone  
 
 ---
@@ -159,6 +159,17 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=ai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Claude 3 Opus](https://img.shields.io/badge/Claude_3-Opus-4B0082?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude 3 Sonnet](https://img.shields.io/badge/Claude_3-Sonnet-800080?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude 3 Haiku](https://img.shields.io/badge/Claude_3-Haiku-9932CC?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-0.5B%2F1.8B-1D4ED8?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
+</div>
+
+- Practical experience with **Claude 3** (Haiku, Sonnet, Opus) for agents, code and deep reasoning  
+- **Ollama + Qwen (0.5B / 1.8B)** as local LLM stack, integrated via OpenAI‑compatible API  
+- Used in **Faceit AI Bot** for player analysis, demo coaching and teammate matching  
 
 ### 🛠️ DevOps
 
@@ -349,7 +360,7 @@
 ![iPhone 15 Pro Max](https://img.shields.io/badge/_Current-iPhone_15_Pro_Max-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
 ![iPhone 14 Pro Max](https://img.shields.io/badge/_Previous-iPhone_14_Pro_Max-555555?style=for-the-badge&logo=apple&logoColor=white)
 
-**📱 Текущее основное устройство:** iPhone 15 Pro Max — основной смартфон
+**📱 Текущее основное устройство:** iPhone 15 Pro Max — основной смартфон  
 **📱 Предыдущее основное устройство:** iPhone 14 Pro Max — раньше основной телефон  
 
 ---
@@ -472,6 +483,17 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=ai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Claude 3 Opus](https://img.shields.io/badge/Claude_3-Opus-4B0082?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude 3 Sonnet](https://img.shields.io/badge/Claude_3-Sonnet-800080?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude 3 Haiku](https://img.shields.io/badge/Claude_3-Haiku-9932CC?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-0.5B%2F1.8B-1D4ED8?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
+</div>
+
+- Практический опыт с **Claude 3** (Haiku, Sonnet, Opus) для агентов, кода и задач с сильным упором на рассуждения  
+- **Ollama + Qwen (0.5B / 1.8B)** как локальный стек LLM, интеграция через OpenAI‑совместимый API  
+- Используется в **Faceit AI Bot** для анализа игроков, коуч‑отчётов по демкам и подбора тиммейтов  
 
 ### 🛠️ DevOps
 
@@ -633,11 +655,3 @@
 **Открыт к предложениям:** фриланс‑проекты, full‑stack разработка, аналитика данных, backend‑API  
 
 </details>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer)
-
-</div>
