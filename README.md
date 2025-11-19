@@ -54,7 +54,7 @@
 
 <br />
 
-**📱 Current primary device:** iPhone 15 Pro Max — main work, communication and testing device  
+**📱 Current primary device:** iPhone 15 Pro Max — main device for working
 **📱 Previous primary device:** iPhone 14 Pro Max — previously used as the main smartphone
 
 </details>
@@ -64,7 +64,7 @@
 
 <br />
 
-**📱 Текущее основное устройство:** iPhone 15 Pro Max — основной смартфон для работы, связи и тестов  
+**📱 Текущее основное устройство:** iPhone 15 Pro Max — основной смартфон для работы
 **📱 Предыдущее основное устройство:** iPhone 14 Pro Max — раньше использовался как основной телефон
 
 </details>
