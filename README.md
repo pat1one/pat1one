@@ -28,6 +28,16 @@
 
 ---
 
+### 📱 Mobile Devices
+
+![iPhone 15 Pro Max](https://img.shields.io/badge/_Current-iPhone_15_Pro_Max-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
+![iPhone 14 Pro Max](https://img.shields.io/badge/_Previous-iPhone_14_Pro_Max-555555?style=for-the-badge&logo=apple&logoColor=white)
+
+**📱 Current primary device:** iPhone 15 Pro Max — main work and testing device  
+**📱 Previous primary device:** iPhone 14 Pro Max — previously used as the main smartphone
+
+---
+
 ## 🌐 Languages
 
 <div align="center">
