@@ -16,11 +16,9 @@
 <br/>
 
 ## 💻 My Setup
-
 <div align="center">
 
 ### 🖥️ Operating Systems
-
 ![CachyOS](https://img.shields.io/badge/_Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/🎮_Gaming-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![macOS](https://img.shields.io/badge/_Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -32,7 +30,6 @@
 ---
 
 ### 📱 Mobile Devices
-
 ![iPhone 15 Pro Max](https://img.shields.io/badge/_Current-iPhone_15_Pro_Max-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
 ![iPhone 14 Pro Max](https://img.shields.io/badge/_Previous-iPhone_14_Pro_Max-555555?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -41,10 +38,7 @@
 
 ---
 
-### 🧩 PC Build
-
 ### 🧠 Core Components
-
 ![CPU](https://img.shields.io/badge/CPU-Intel_Core_i9_9900K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![GPU](https://img.shields.io/badge/GPU-RTX_3080_12GB_GIGABYTE-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Motherboard](https://img.shields.io/badge/Motherboard-B360_ATX_DDR4-FF6A00?style=for-the-badge&logo=gigabyte&logoColor=white)
@@ -55,12 +49,10 @@
 ![PSU](https://img.shields.io/badge/PSU-Deepcool_700W_Gold-00A29A?style=for-the-badge&logo=deepcool&logoColor=white)
 
 ### 🖥️ Monitors
-
 ![Monitor 1](https://img.shields.io/badge/Main_Monitor-ASUS_TUF_VG279QM_27%E2%80%9D-FF6600?style=for-the-badge&logo=asus&logoColor=white)
 ![Monitor 2](https://img.shields.io/badge/Second_Monitor-ASUS_TUF_VG249Q_23.8%E2%80%9D-FF6600?style=for-the-badge&logo=asus&logoColor=white)
 
 ### 🎧 Peripherals & Gear
-
 ![Gaming Chair](https://img.shields.io/badge/Chair-Cougar_Armor_One_V2-FF7F50?style=for-the-badge&logo=cougar&logoColor=white)
 ![Headset](https://img.shields.io/badge/Headphones-Logitech_G733-00BFFF?style=for-the-badge&logo=logitech&logoColor=white)
 ![Microphone](https://img.shields.io/badge/Microphone-HyperX_QuadCast_S_Black-CC0000?style=for-the-badge&logo=hyperx&logoColor=white)
@@ -70,7 +62,6 @@
 ![Mousepad](https://img.shields.io/badge/Mousepad-Artisan_Hayate_Otsu_Soft-444444?style=for-the-badge)
 
 ### 📷 Streaming & Camera
-
 ![Camera](https://img.shields.io/badge/Camera-Sony_Alpha_6000-000000?style=for-the-badge&logo=sony&logoColor=white)
 ![Lens](https://img.shields.io/badge/Lens-Sigma_16mm_f%2F1.4-999999?style=for-the-badge&logo=sigma&logoColor=white)
 
@@ -87,7 +78,6 @@
 ---
 
 ## 🌐 Languages
-
 <div align="center">
 
 ![Russian](https://img.shields.io/badge/Russian-Native-0039A6?style=for-the-badge)
@@ -103,44 +93,40 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### 💻 Programming Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-231F20?style=for-the-badge&logo=terminal&logoColor=white)
+![Fish](https://img.shields.io/badge/Fish_Shell-4AAE47?style=for-the-badge&logo=fishshell&logoColor=white)
 
 ### 🎨 Frontend
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### 🗄️ Databases
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📊 Data Science
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🤖 AI & LLMs
-
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=ai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -151,14 +137,12 @@
 ![Qwen](https://img.shields.io/badge/Qwen-0.5B%2F1.8B-1D4ED8?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 ### 🛠️ DevOps
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### ⌨️ Code Editors
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium_(Linux)-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
@@ -169,7 +153,6 @@
 ---
 
 ## 🔌 VSCode / VSCodium Extensions
-
 **AI & Productivity:** GitHub Copilot, Copilot Chat, npm IntelliSense  
 **Python:** Python, Pylance, Debugger, Environments  
 **DevOps:** Dev Containers, Docker, GitHub Actions, Codespaces  
@@ -180,11 +163,9 @@
 ---
 
 ## 🎯 Projects
-
 <div align="center">
 
 ### 🤖 Faceit AI Bot
-
 CS2 analytics & AI coach for Faceit players: teammate search, demo analysis, training plans.
 
 [![Website](https://img.shields.io/badge/Website-pattmsc.online-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pattmsc.online)
@@ -203,7 +184,6 @@ CS2 analytics & AI coach for Faceit players: teammate search, demo analysis, tra
 ---
 
 ### 🎮 Multimodal Gaming AI Chat
-
 Multimodal AI chat for gamers with game‑focused prompts and tools.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -217,7 +197,6 @@ Multimodal AI chat for gamers with game‑focused prompts and tools.
 ---
 
 ### 📺 Stream AI Bot
-
 Automation tools for Twitch / YouTube streams and overlays.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -229,7 +208,6 @@ Automation tools for Twitch / YouTube streams and overlays.
 ---
 
 ### 💬 Telegram Forward Bot
-
 Flexible forwarding and routing of messages between Telegram chats.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -240,8 +218,8 @@ Flexible forwarding and routing of messages between Telegram chats.
 ---
 
 ### 🐧 Aegnux
-
-Linux tooling & environment for running Adobe After Effects and related apps.
+Linux tooling & environment for running Adobe After Effects and related apps  
+**(my personal fork‑based project / setup).**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -254,7 +232,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ## 📚 Currently Learning
-
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -270,7 +247,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ## 💼 Contacts
-
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Business-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prdrow)
@@ -296,11 +272,9 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 <br/>
 
 ## 💻 Моя конфигурация
-
 <div align="center">
 
 ### 🖥️ Операционные системы
-
 ![CachyOS](https://img.shields.io/badge/_Primary-CachyOS-00D26A?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/🎮_Gaming-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![macOS](https://img.shields.io/badge/_Experience-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -312,7 +286,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ### 📱 Мобильные устройства
-
 ![iPhone 15 Pro Max](https://img.shields.io/badge/_Current-iPhone_15_Pro_Max-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
 ![iPhone 14 Pro Max](https://img.shields.io/badge/_Previous-iPhone_14_Pro_Max-555555?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -321,10 +294,7 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 
 ---
 
-### 🧩 ПК‑сборка
-
 ### 🧠 Основные компоненты
-
 ![CPU](https://img.shields.io/badge/CPU-Intel_Core_i9_9900K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![GPU](https://img.shields.io/badge/GPU-RTX_3080_12GB_GIGABYTE-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Motherboard](https://img.shields.io/badge/Motherboard-B360_ATX_DDR4-FF6A00?style=for-the-badge&logo=gigabyte&logoColor=white)
@@ -335,12 +305,10 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ![PSU](https://img.shields.io/badge/PSU-Deepcool_700W_Gold-00A29A?style=for-the-badge&logo=deepcool&logoColor=white)
 
 ### 🖥️ Мониторы
-
 ![Monitor 1](https://img.shields.io/badge/Main_Monitor-ASUS_TUF_VG279QM_27%E2%80%9D-FF6600?style=for-the-badge&logo=asus&logoColor=white)
 ![Monitor 2](https://img.shields.io/badge/Second_Monitor-ASUS_TUF_VG249Q_23.8%E2%80%9D-FF6600?style=for-the-badge&logo=asus&logoColor=white)
 
 ### 🎧 Периферия и оборудование
-
 ![Gaming Chair](https://img.shields.io/badge/Chair-Cougar_Armor_One_V2-FF7F50?style=for-the-badge&logo=cougar&logoColor=white)
 ![Headset](https://img.shields.io/badge/Headphones-Logitech_G733-00BFFF?style=for-the-badge&logo=logitech&logoColor=white)
 ![Microphone](https://img.shields.io/badge/Microphone-HyperX_QuadCast_S_Black-CC0000?style=for-the-badge&logo=hyperx&logoColor=white)
@@ -350,7 +318,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ![Mousepad](https://img.shields.io/badge/Mousepad-Artisan_Hayate_Otsu_Soft-444444?style=for-the-badge)
 
 ### 📷 Стрим и камера
-
 ![Camera](https://img.shields.io/badge/Camera-Sony_Alpha_6000-000000?style=for-the-badge&logo=sony&logoColor=white)
 ![Lens](https://img.shields.io/badge/Lens-Sigma_16mm_f%2F1.4-999999?style=for-the-badge&logo=sigma&logoColor=white)
 
@@ -359,7 +326,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ## 🌐 Языки
-
 <div align="center">
 
 ![Russian](https://img.shields.io/badge/Russian-Native-0039A6?style=for-the-badge)
@@ -375,44 +341,40 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ## 🛠️ Технологический стек
-
 <div align="center">
 
 ### 💻 Языки программирования
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-231F20?style=for-the-badge&logo=terminal&logoColor=white)
+![Fish](https://img.shields.io/badge/Fish_Shell-4AAE47?style=for-the-badge&logo=fishshell&logoColor=white)
 
 ### 🎨 Frontend
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### 🗄️ Базы данных
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📊 Data Science
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🤖 AI & LLM
-
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=ai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -423,14 +385,12 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ![Qwen](https://img.shields.io/badge/Qwen-0.5B%2F1.8B-1D4ED8?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 ### 🛠️ DevOps
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### ⌨️ Редакторы кода
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium_(Linux)-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
@@ -441,7 +401,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ## 🔌 Расширения VSCode / VSCodium
-
 **AI и продуктивность:** GitHub Copilot, Copilot Chat, npm IntelliSense  
 **Python:** Python, Pylance, Debugger, Environments  
 **DevOps:** Dev Containers, Docker, GitHub Actions, Codespaces  
@@ -452,11 +411,9 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ## 🎯 Проекты
-
 <div align="center">
 
 ### 🤖 Faceit AI Bot
-
 Платформа аналитики CS2 и AI‑коучинга для игроков Faceit: поиск тиммейтов, разбор демок, планы тренировок.
 
 [![Сайт](https://img.shields.io/badge/Сайт-pattmsc.online-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pattmsc.online)
@@ -475,7 +432,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ### 🎮 Multimodal Gaming AI Chat
-
 Мультимодальный AI‑чат для геймеров с игровыми промптами и инструментами.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -489,7 +445,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ### 📺 Stream AI Bot
-
 Инструменты автоматизации стримов Twitch / YouTube и оверлеев.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -501,7 +456,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ### 💬 Telegram Forward Bot
-
 Гибкая пересылка и маршрутизация сообщений между чатами Telegram.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -512,8 +466,8 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ### 🐧 Aegnux
-
-Окружение и скрипты для запуска Adobe After Effects на Linux.
+Окружение и скрипты для запуска Adobe After Effects на Linux  
+**(мой личный форк‑проект / форк‑окружение).**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -526,7 +480,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ## 📚 Сейчас изучаю
-
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -542,7 +495,6 @@ Linux tooling & environment for running Adobe After Effects and related apps.
 ---
 
 ## 💼 Контакты
-
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Business-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prdrow)
