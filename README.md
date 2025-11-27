@@ -169,7 +169,7 @@
 CS2 analytics & AI coach for Faceit players: teammate search, demo analysis, training plans.
 
 [![Website](https://img.shields.io/badge/Website-pattmsc.online-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pattmsc.online)
-[![Docs](https://img.shields.io/badge/Docs-pat1one.github.io/faceit-ai-bot-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.pattmsc.online)
+[![Docs](https://img.shields.io/badge/Docs-docs.pattmsc.online-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.pattmsc.online)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
