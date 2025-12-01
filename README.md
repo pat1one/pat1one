@@ -352,6 +352,8 @@ Linux tooling & environment for running Adobe After Effects and related apps
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-231F20?style=for-the-badge&logo=terminal&logoColor=white)
 ![Fish](https://img.shields.io/badge/Fish_Shell-4AAE47?style=for-the-badge&logo=fishshell&logoColor=white)
